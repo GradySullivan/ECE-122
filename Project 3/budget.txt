@@ -1,0 +1,11 @@
+rent--650.0
+utility--112.0
+phone--55.0
+grocery--267.2
+gas--49.0
+restaurant--73.5
+gym--36.0
+theater--33.0
+on-line--52.5
+shopping--83.0
+Total--1411.2
